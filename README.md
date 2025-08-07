@@ -8,7 +8,7 @@ Recent studies in neuroscience highlight the significant potential of brain conn
 
 
 ## Framework
-![](images/framework6.pdf)
+![](images/framework.png)
 
 
 ## Requirements
