@@ -1,4 +1,3 @@
-<img width="544" height="327" alt="image" src="https://github.com/user-attachments/assets/f3e499d8-ff5a-4dfa-9453-a2a67e5a486e" /><img width="830" height="920" alt="image" src="https://github.com/user-attachments/assets/c7412194-2635-4283-90cd-18dac5eee046" /># BCNSL
 Medical Image Analysis Under Review
 
 ## Abstract
