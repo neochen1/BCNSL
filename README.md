@@ -5,7 +5,7 @@ Recent studies in neuroscience highlight the significant potential of brain conn
 
 
 ## Framework
-!(images/framework.png)
+!(./images/framework.png)
 
 ## Environment
 ```
